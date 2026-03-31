@@ -1,48 +1,58 @@
+# 👋 Hi, I'm Sujal Patel
 
-# Hi 👋, I'm Sujal Patel
-
-🚀 Full Stack Developer (MERN Stack)
-💻 Building real-world applications & APIs
-📍 Surat, India
+💻 Aspiring Full Stack Developer | MERN Stack Enthusiast  
+🚀 Passionate about building real-world applications and learning new technologies  
 
 ---
 
-## 🔥 About Me
-
-* 👨‍💻 Currently working on MERN stack projects
-* 📊 Interested in backend systems & API development
-* ⚡ Love building useful tools (Milk Tracking App, GiftSutra)
-
----
-
-## 🛠 Tech Stack
-
-**Frontend:** React, HTML, CSS, Tailwind
-**Backend:** Node.js, Express
-**Database:** MongoDB, MySQL
-**Tools:** Git, Postman, Vercel
+## 🧑‍💻 About Me
+- 🎓 Currently learning Full Stack Development (MERN)
+- 🔭 Working on personal projects and improving my coding skills
+- 💡 Interested in Web Development, APIs, and Backend Systems
+- ⚡ Love solving real-world problems with code
 
 ---
 
-## 🚀 Projects
+## 🛠️ Tech Stack
 
-### 🥛 Milk Tracking App
+### 💻 Languages
+- JavaScript
+- Python
+- C
 
-* Tracks daily milk records & calculates profit
-* CRUD operations + backend logic
-* Built with MERN
+### 🌐 Frontend
+- React.js
+- HTML5
+- CSS3
+- Tailwind CSS
 
-### 🎁 GiftSutra
+### 🧠 Backend
+- Node.js
+- Express.js
 
-* Full-stack gifting platform
-* API integration + UI + backend
+### 🗄️ Database
+- MongoDB
+- MySQL
+
+### ⚙️ Tools & Platforms
+- Git & GitHub
+- VS Code
+- Postman
 
 ---
 
 ## 📊 GitHub Stats
 
-![Sujal's GitHub stats]
+![Sujal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujal1444&show_icons=true&theme=radical)
 
 ---
 
+## 🔗 Connect With Me
 
+- 💼 LinkedIn: www.linkedin.com/in/sujal-patel-244aa8326
+- 🌐 Portfolio: *(Under Development)*
+
+---
+
+## ⚡ Fun Fact
+I enjoy turning ideas into real applications 🚀
