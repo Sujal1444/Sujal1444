@@ -18,7 +18,6 @@
 ### 💻 Languages
 - JavaScript
 - Python
-- C
 
 ### 🌐 Frontend
 - React.js
